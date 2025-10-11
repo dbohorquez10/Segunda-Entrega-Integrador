@@ -186,7 +186,7 @@ Interfaz gráfica en Swing con diseño moderno, tonos verdes y navegación media
 | Categoría | Tecnología |
 |------------|-------------|
 | Lenguaje | Java SE 21 / JDK 24 |
-| IDE | Apache NetBeans 19 |
+| IDE | Apache NetBeans 25 |
 | Base de datos | Oracle 10g XE |
 | Driver JDBC | ojdbc11.jar |
 | Interfaz | Java Swing |
