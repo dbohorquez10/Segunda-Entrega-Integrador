@@ -30,6 +30,8 @@ src/
 │   ├── LoteControl.java
 │   ├── AsignacionLoteControl.java
 │   ├── ReportePlagaControl.java
+│   ├── CultivoControl.java
+│   ├── PlagaControl.java
 │
 └── vista/
     ├── LoginFrame.java
