@@ -1,5 +1,8 @@
 # Proyecto Integrador – Sistema ICA-FITO
+## Video Prototipo Funcionando
+https://www.youtube.com/watch?v=8E8faTxI7a0
 
+---
 ## Descripción general
 
 **ICA-FITO** es una aplicación de escritorio desarrollada en **Java Swing**, conectada a una base de datos **Oracle**, diseñada para facilitar los procesos de inspección y control fitosanitario del **Instituto Colombiano Agropecuario (ICA)**.  
